@@ -1,4 +1,4 @@
-# Jewel Emporium Website
+# Jewel Emporium Website 💍
 
 This project is a responsive and visually appealing **jewelry showcase website** designed to display beautiful jewelry collections. The site is built using **HTML**, **CSS**, **Bootstrap**, **Font Awesome**, and **JavaScript**.
 
